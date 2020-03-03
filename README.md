@@ -23,7 +23,7 @@ The App.
 
 ### Backend
 
-The `./backend` directory contains a Flask server with a an SQLAlchemy module to satisfy the application's data needs. Backend defines the required endpoints, Flask server configuration, and Auth0 integratation for authentication.
+The `./backend` directory contains a Flask server with an SQLAlchemy module to satisfy the application's data needs. Backend defines the required endpoints, Flask server configuration, and Auth0 integratation for authentication.
 
 [View the README.md within ./backend for more details.](./backend/README.md)
 
