@@ -5,7 +5,7 @@
 ### Installing Dependencies
 
 #### Python 3.7
-The backend of the web application is implemented in Python 3.
+The backend of this web application is implemented in Python 3.
 
 You can follow instructions to install the latest version of python for your platform in the [python docs](https://docs.python.org/3/using/unix.html#getting-and-installing-the-latest-version-of-python)
 
