@@ -20,9 +20,6 @@ The App.
 4) Allows the shop managers to create new drinks and edit existing drinks.
 
 
-## About the Stack
-
-We started the full stack application for you. It is desiged with some key functional areas:
 
 ### Backend
 
@@ -34,4 +31,4 @@ The `./backend` directory contains a Flask server with a an SQLAlchemy module to
 
 The `./frontend` directory contains a complete Ionic frontend to consume the data from the Flask server.
 
-[View the README.md within ./frontend for more details.](./frontend/README.md) 
+[View the README.md within ./frontend for more details.](./frontend/README.md)
